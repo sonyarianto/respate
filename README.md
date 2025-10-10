@@ -1,6 +1,6 @@
 # respate (a.k.a. React SPA Template)
 
-Template for React that contains:
+Template for React app that contains:
 
 - React
 - TypeScript
