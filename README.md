@@ -1,4 +1,4 @@
-# respate
+# respate (a.k.a. React SPA Template)
 
 Template for React that contains:
 
